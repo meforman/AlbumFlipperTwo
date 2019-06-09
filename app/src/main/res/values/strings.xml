@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AlbumFlipperTwo</string>
+    <string name="track_list"></string>
+    <string name="find_cover">Find Cover</string>
+    <string-array name="spinner_values">
+        <item>Beatles, Abbey Road</item>
+        <item>Meat Loaf, Bat Out of Hell</item>
+        <item>Rush, Moving Pictures</item>
+        <item>Bruce Springstien, Born in the USA</item>
+        <item>Toto, IV</item>
+        <item>Electric Light Orchestra, Eldorado</item>
+        <item>Yes, 90125</item>
+        <item>Queen, II</item>
+        <item>Boston, Boston</item>
+        <item>Beatles, Let It Be</item>
+        <item>Beatles, Sgt Pepper</item>
+        <item>Boston, Dont Look Back</item>
+        <item>Foreigner, Four</item>
+        <item>Alan Parsons, I Robot</item>
+        <item>Electric Light Orchestra, Out of the Blue</item>
+        <item>SuperTramp, Breakfast in America</item>
+        <item>The Cars, The Cars</item>
+        <item>Styx, The Grand Illusion</item>
+    </string-array>
+</resources>
